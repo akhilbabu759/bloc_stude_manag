@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154400317610",
+    "project_id": "bloc-student-manage",
+    "storage_bucket": "bloc-student-manage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154400317610:android:c895dbf46749c4ee24f0d3",
+        "android_client_info": {
+          "package_name": "com.example.bloc_student_manage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154400317610-v8dljpo2ufgeuati6gcok9tc342euept.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZI-hWEVUKIu45Hgl0MWRRtBPnpDMPGh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154400317610-v8dljpo2ufgeuati6gcok9tc342euept.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
